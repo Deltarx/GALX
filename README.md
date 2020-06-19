@@ -1,0 +1,2 @@
+# GALX
+Elite Dangerous app
